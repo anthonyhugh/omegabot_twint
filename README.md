@@ -31,7 +31,6 @@ Twitter limits scrolls while browsing the user timeline. This means that with `.
 - dataclasses
 - elasticsearch;
 - pysocks;
-- pandas (>=0.23.0);
 - aiohttp_socks;
 - schedule;
 - geopy;
